@@ -167,6 +167,9 @@ section {
   display: none;
 }
 
+/* Active link */
+/* Change background header */
+/*=============== HOME ===============*/
 /* Banner Section */
 .bannerWrapper {
   padding-top: 10rem;
@@ -279,9 +282,6 @@ section {
   transition: border ease-in-out 2s;
 }
 
-/* Active link */
-/* Change background header */
-/*=============== HOME ===============*/
 /*=============== BUTTONS ===============*/
 /*=============== ABOUT ===============*/
 /*=============== SKILLS ===============*/
